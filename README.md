@@ -1,6 +1,6 @@
 # Hi there 👋 I'm SURAJ SP
 
-> Full-stack developer & data enthusiast | Building data-driven applications with Python, Node.js & cloud technologies | MCA graduate eager to solve real-world problems
+> Python developer & Data enthusiast | Building data-driven applications with Python Frameworks, Ai & cloud technologies | MCA graduate eager to solve real-world problems
 
 [![GitHub followers](https://img.shields.io/github/followers/DSATM1?label=Follow&style=for-the-badge)](https://github.com/DSATM1) [![Email](https://img.shields.io/badge/Email-surajsppokale%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:surajsppokale@gmail.com) [![Phone](https://img.shields.io/badge/Phone-7975627135-green?style=for-the-badge&logo=whatsapp)]() [![Location](https://img.shields.io/badge/Location-Bengaluru-blue?style=for-the-badge&logo=googlemaps)]()
 
@@ -8,12 +8,12 @@
 
 ## About Me
 
-Results-driven **MCA graduate** (8.52 CGPA from DSATM) with strong foundations in full-stack development, data analytics, and software engineering. I'm passionate about building scalable web applications and extracting actionable insights from data. I thrive in collaborative environments and love solving complex problems with clean, efficient code.
+Results-driven **MCA graduate** (8.52 CGPA from Dayananda Sagar Academy of Technology and Management) with strong foundations in Python, Data Analytics, and AIML Engineering. I'm passionate about building scalable web applications and extracting actionable insights from data. I thrive in collaborative environments and love solving complex problems with clean, efficient code.
 
-- 🔭 Currently: **Open to Full-Stack Development & Data Analytics roles**
-- 🌱 Learning: Advanced cloud architectures (AWS/GCP), ML-powered analytics
+- 🔭 Currently: **Open to Python Developer & Data Analytics roles**
+- 🌱 Learning: Python frameworks, ML-powered analytics
 - 👯 Collaborating on: Data visualization projects, full-stack applications
-- 💬 Ask me about: Python, Node.js, Data Analysis, Database Design, Web Development
+- 💬 Ask me about: Python, Frameworks, Data Analysis, Database Design, Web Development
 - 📫 Reach me: [surajsppokale@gmail.com](mailto:surajsppokale@gmail.com) | +91 7975627135
 
 ---
